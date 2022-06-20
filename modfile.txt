@@ -1,0 +1,9 @@
+-: Mod Name: Return to Greece
+    Author - AlexKage
+:-
+
+Import "ReturnToGreece.lua"
+
+:: Language Text
+To "Game/Text/en/HelpText.en.sjson"
+SJSON "Text/en/HelpText.en.sjson"
